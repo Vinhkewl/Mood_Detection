@@ -6,3 +6,5 @@ Im using Pytorch and YOLOv5 for face recognition and detect mood including 6 ste
 ## 4. Real time detection
 ## 5. Train from scratch
 ## 6. Load Model
+
+credits to : Nicholas Renotte
